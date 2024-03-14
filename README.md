@@ -46,7 +46,7 @@
 致力于为中小企业、外包公司、软件工作室和个人开发者，提供技术规范、项目模板、效率工具等。
 
 ## 项目介绍
-- **@taiyi/ty-cli**（基于 `vite` 进行深度封装的 `vue3` 项目开发脚手架）
+- **@taiyi/ty-cli**（基于 `vite` 进行深度封装的 项目开发脚手架）
 - **@taiyi/ty-vue-base**（基于 `vite` 的 `vue3` 基础模板）
 - **@taiyi/ty-vue-admin**（基于 `vite` 的 `vue3` 后台管理模板）
 - **@taiyi/ty-react-base**（基于 `vite` 的 `react18` 基础模板）
