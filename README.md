@@ -1,10 +1,10 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/bg-code.svg" width="400"/>
+<img align="right" alt="GIF" src="./assets/bg-code.svg" width="300" style="margin-top: 50px"/>
 
 <!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
+<h2 height="200px" align="left">🎉 About Me</h2>
 <br />
 
 - 🔭 目前在吉利工作 [Geely](https://m.geely.com/)～
